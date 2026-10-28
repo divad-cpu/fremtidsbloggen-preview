@@ -7,3 +7,4 @@ html[lang="en"] .hero-art::after{content:'THOUGHTS  /  TECHNOLOGY  /  THE FUTURE
 .article-body a{overflow-wrap:anywhere}button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #7465dd;outline-offset:2px}
 .skip-link{position:absolute;left:12px;top:8px;z-index:100;padding:10px 14px;background:#fff;color:#17152c;border:2px solid #493abb;border-radius:4px;transform:translateY(-160%)}.skip-link:focus{transform:translateY(0)}
 .intro-image{width:min(260px,100%);flex:none}.intro-image img{width:100%;aspect-ratio:1.2;object-fit:cover}
+.meta a{text-decoration:none}.meta a:hover,.meta a:focus-visible{text-decoration:underline}
