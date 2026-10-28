@@ -1,3 +1,3 @@
-# Fremtidsbloggen – testversjon
+# Fremtidsbloggen
 
-Dette er en offentlig forhåndsvisning med innhold fra den eksisterende nettsiden. Den er ikke koblet til domenet og er merket for å ikke bli indeksert.
+Klargjort produksjonsutgave av det tospråklige nettstedet. Denne grenen er ikke koblet til domenet og er ikke aktiv i GitHub Pages.
