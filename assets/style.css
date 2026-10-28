@@ -8,3 +8,4 @@ html[lang="en"] .hero-art::after{content:'THOUGHTS  /  TECHNOLOGY  /  THE FUTURE
 .skip-link{position:absolute;left:12px;top:8px;z-index:100;padding:10px 14px;background:#fff;color:#17152c;border:2px solid #493abb;border-radius:4px;transform:translateY(-160%)}.skip-link:focus{transform:translateY(0)}
 .intro-image{width:min(260px,100%);flex:none}.intro-image img{width:100%;aspect-ratio:1.2;object-fit:cover}
 .meta a{text-decoration:none}.meta a:hover,.meta a:focus-visible{text-decoration:underline}
+.article-tags{max-width:710px;margin:-45px auto 85px;font-family:system-ui,sans-serif}.article-tags h2{font-size:16px;letter-spacing:0}.article-tags ul{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}.article-tags a{display:block;border:1px solid #c9c6d6;border-radius:3px;padding:5px 10px;font-size:13px;text-decoration:none}.article-tags a:hover{color:#493abb;border-color:#493abb}
